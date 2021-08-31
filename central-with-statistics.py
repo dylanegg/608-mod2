@@ -19,8 +19,8 @@ print(f'3. The Mean of values = {mean:0.2f}')
 
 #4. Median
 median = statistics.median(values)
-print(f'3. The Mean of values = {median:0.2f}')
+print(f'4. The Median of values = {median:0.2f}')
 
 #5. Mode
 mode = statistics.mode(values)
-print(f'3. The Mean of values = {mode}')
+print(f'5. The Mode of values = {mode}')
